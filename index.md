@@ -2,7 +2,5 @@
 
 <div style="position: absolute; left: 0%; width: 100%; height: 10%; background-image: url('BarBackground.png'); background-repeat: repeat;">
   <button style="float: left; color: silver; border: none; background-image: url('BarBackground.png'); background-repeat: repeat; font-size: 45px;">Home</button>
-  <center>
-    <button style="color: silver; border: none; background-image: url('BarBackground.png'); background-repeat: repeat; font-size: 65px;">Games</button>
-  </center>
+  <button style="color: silver; border: none; background-image: url('BarBackground.png'); background-repeat: repeat; font-size: 65px; text-align: center;">Games</button>
 </div>
