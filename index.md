@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <center>
   <div style="">
-    # Games
-      Visit the Games tab for Games playable at WHS!
+    <h1>Games</h1>
+    <h2>Visit the Games tab for Games playable at WHS!</h2>
     <!--# Exploits
       Visit the Exploits tab for nifty tricks at WHS!
     # Info-->
